@@ -1,0 +1,577 @@
+chrom	feature	start	end	strand	phase	strain	geneID	ko	alias	desc	distance	pos	ref	alt	mut_len	evolved_strain	AD_ref	AD_alt	af_deepvariant	ID	plant	line	syncom
+LjRoot44_contig_1	CDS	370639	371463	-	0	LjRoot44	LjRoot44_gene_1885	K02406	fliC	flagellin	0	371213	T	C	0	LjRoot44_167	35	82	0.7008547008547008	167	col0	9	lj
+LjRoot44_contig_1	CDS	487441	490026	-	0	LjRoot44	LjRoot44_gene_2475	K01869	LARS, leuS	leucyl-tRNA synthetase [EC:6.1.1.4]	0	488751	T	C	0	LjRoot44_167	0	133	1.0	167	col0	9	lj
+LjRoot44_contig_1	CDS	573796	574587	-	0	LjRoot44	LjRoot44_gene_2920		hypothetical protein		0	574064	G	C	0	LjRoot44_167	0	105	1.0	167	col0	9	lj
+LjRoot44_contig_1	CDS	2633517	2634800	-	0	LjRoot44	LjRoot44_gene_13065	K03577	acrR, smeT	TetR/AcrR family transcriptional regulator, acrAB operon repressor	0	2634122	C	A	0	LjRoot44_167	0	126	1.0	167	col0	9	lj
+LjRoot44_contig_1	CDS	3109147	3110337	-	0	LjRoot44	LjRoot44_gene_15235	K05350	bglB	beta-glucosidase [EC:3.2.1.21]	0	3110334	GCA	G	2	LjRoot44_167	0	113	1.0	167	col0	9	lj
+LjRoot44_contig_1	CDS	3109147	3110337	-	0	LjRoot44	LjRoot44_gene_15235	K05350	bglB	beta-glucosidase [EC:3.2.1.21]	7	3110344	TCG	T	2	LjRoot44_167	0	113	1.0	167	col0	9	lj
+LjRoot44_contig_1	CDS	3109147	3110337	-	0	LjRoot44	LjRoot44_gene_15235	K05350	bglB	beta-glucosidase [EC:3.2.1.21]	11	3110348	G	C	0	LjRoot44_167	0	113	1.0	167	col0	9	lj
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815228	T	C	0	Root142_90	0	105	1.0	90	col0	1	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815368	G	A	0	Root142_90	0	107	1.0	90	col0	1	at
+Root142_contig_2	CDS	81283	81933	-	0	Root142	Root142_gene_19980	K22293	rspR	GntR family transcriptional regulator, rspAB operon transcriptional repressor	0	81818	C	A	0	Root142_90	0	111	1.0	90	col0	1	at
+Root142_contig_2	CDS	1033051	1034358	-	0	Root142	Root142_gene_24365	K05813	ugpB	sn-glycerol 3-phosphate transport system substrate-binding protein	0	1033259	G	T	0	Root142_90	0	93	1.0	90	col0	1	at
+Root142_contig_2	CDS	1685858	1688131	+	0	Root142	Root142_gene_27370	K16554	exoP, vpsO	polysaccharide biosynthesis transport protein	0	1688007	A	C	0	Root142_90	0	89	1.0	90	col0	1	at
+Root142_contig_3	CDS	83912	84943	+	0	Root142	Root142_gene_28945	K03929	pnbA	para-nitrobenzyl esterase [EC:3.1.1.-]	0	84571	C	G	0	Root142_90	0	85	1.0	90	col0	1	at
+Root142_contig_4	CDS	16569	17606	+	0	Root142	Root142_gene_33145	K07486	K07486	transposase	18	16551	G	A	0	Root142_90	0	97	1.0	90	col0	1	at
+Root142_contig_4	CDS	16569	17606	+	0	Root142	Root142_gene_33145	K07486	K07486	transposase	0	16653	T	A	0	Root142_90	0	98	1.0	90	col0	1	at
+Root142_contig_4	CDS	16569	17606	+	0	Root142	Root142_gene_33145	K07486	K07486	transposase	0	16664	T	C	0	Root142_90	0	98	1.0	90	col0	1	at
+Root142_contig_4	CDS	119817	122456	+	0	Root142	Root142_gene_33690	K01971	ligD	bifunctional non-homologous end joining protein LigD [EC:6.5.1.1]	0	120426	T	A	0	Root142_90	0	82	1.0	90	col0	1	at
+Root142_contig_4	CDS	712016	712957	-	0	Root142	Root142_gene_36590	K02051	ABC.SN.S	NitT/TauT family transport system substrate-binding protein	0	712228	A	AG	1	Root142_90	0	86	1.0	90	col0	1	at
+LjRoot80_contig_1	CDS	1496931	1500176	+	0	LjRoot80	LjRoot80_gene_7245	K03657	uvrD, pcrA	DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	0	1497785	C	T	0	LjRoot80_61	0	77	1.0	61	gifu	17	lj
+LjRoot80_contig_1	CDS	2240171	2241448	-	0	LjRoot80	LjRoot80_gene_10565	K22219	dszC	dibenzothiophene monooxygenase [EC:1.14.14.21]	0	2240929	G	T	0	LjRoot80_61	0	89	1.0	61	gifu	17	lj
+LjRoot80_contig_1	CDS	4224921	4226282	-	0	LjRoot80	LjRoot80_gene_20010	K01897	ACSL, fadD	long-chain acyl-CoA synthetase [EC:6.2.1.3]	0	4224967	G	T	0	LjRoot80_61	0	103	1.0	61	gifu	17	lj
+LjRoot80_contig_1	CDS	4637388	4639055	-	0	LjRoot80	LjRoot80_gene_21955	K00666	ACSF2	fatty-acyl-CoA synthase [EC:6.2.1.-]	0	4638770	C	T	0	LjRoot80_61	0	95	1.0	61	gifu	17	lj
+LjRoot80_contig_1	CDS	5621396	5622724	+	0	LjRoot80	LjRoot80_gene_26965		hypothetical protein		0	5622052	C	G	0	LjRoot80_61	0	86	1.0	61	gifu	17	lj
+LjRoot80_contig_1	CDS	5621396	5622724	+	0	LjRoot80	LjRoot80_gene_26965		hypothetical protein		0	5622061	C	T	0	LjRoot80_61	0	86	1.0	61	gifu	17	lj
+LjRoot80_contig_1	CDS	5621396	5622724	+	0	LjRoot80	LjRoot80_gene_26965		hypothetical protein		0	5622139	G	T	0	LjRoot80_61	0	84	1.0	61	gifu	17	lj
+LjRoot80_contig_1	CDS	5621396	5622724	+	0	LjRoot80	LjRoot80_gene_26965		hypothetical protein		0	5622148	A	G	0	LjRoot80_61	0	84	1.0	61	gifu	17	lj
+LjRoot80_contig_1	CDS	5621396	5622724	+	0	LjRoot80	LjRoot80_gene_26965		hypothetical protein		0	5622266	A	G	0	LjRoot80_61	0	85	1.0	61	gifu	17	lj
+LjRoot80_contig_1	CDS	5785441	5786646	+	0	LjRoot80	LjRoot80_gene_27755	K00249	ACADM, acd	acyl-CoA dehydrogenase [EC:1.3.8.7]	0	5785904	T	TCACCGG	6	LjRoot80_61	0	97	1.0	61	gifu	17	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938760	TTTG	T	3	LjRoot262_2-44	2	128	0.9846153846153847	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938764	C	G	0	LjRoot262_2-44	0	129	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938767	C	G	0	LjRoot262_2-44	0	129	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938768	A	C	0	LjRoot262_2-44	0	128	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938773	C	G	0	LjRoot262_2-44	0	131	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938776	A	G	0	LjRoot262_2-44	0	130	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938778	G	C	0	LjRoot262_2-44	0	129	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938779	T	G	0	LjRoot262_2-44	0	131	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938780	A	ATGC	3	LjRoot262_2-44	1	129	0.9923076923076923	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938786	G	T	0	LjRoot262_2-44	0	130	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938787	C	T	0	LjRoot262_2-44	0	131	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938790	A	G	0	LjRoot262_2-44	0	129	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938791	T	C	0	LjRoot262_2-44	0	130	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938798	C	G	0	LjRoot262_2-44	0	131	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938799	C	G	0	LjRoot262_2-44	0	131	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938800	T	C	0	LjRoot262_2-44	0	131	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938804	T	C	0	LjRoot262_2-44	0	131	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938807	G	C	0	LjRoot262_2-44	0	130	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938810	G	GA	1	LjRoot262_2-44	0	130	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938811	C	T	0	LjRoot262_2-44	0	131	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938812	A	T	0	LjRoot262_2-44	0	131	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938818	CAA	C	2	LjRoot262_2-44	0	131	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938821	G	C	0	LjRoot262_2-44	0	131	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938823	A	C	0	LjRoot262_2-44	0	131	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938826	T	G	0	LjRoot262_2-44	0	131	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938828	G	T	0	LjRoot262_2-44	0	130	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938835	G	C	0	LjRoot262_2-44	0	129	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	tRNA	938933	939007	+		LjRoot262	LjRoot262_gene_4420		tRNA-Glu(ctc)		32	938901	GC	G	1	LjRoot262_2-44	0	133	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	2761959	2762567	-	0	LjRoot262	LjRoot262_gene_12775		hypothetical protein		0	2762438	C	T	0	LjRoot262_2-44	0	125	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	4466846	4469296	+	0	LjRoot262	LjRoot262_gene_20670	K20971	ladS	two-component system, sensor histidine kinase LadS	0	4467079	G	C	0	LjRoot262_2-44	0	132	1.0	2-44	gifu	18	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938760	TTTG	T	3	LjRoot262_2-3	2	133	0.9851851851851852	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938764	C	G	0	LjRoot262_2-3	0	134	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938767	C	G	0	LjRoot262_2-3	0	135	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938768	A	C	0	LjRoot262_2-3	0	135	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938773	C	G	0	LjRoot262_2-3	0	135	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938776	A	G	0	LjRoot262_2-3	0	135	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938778	G	C	0	LjRoot262_2-3	0	135	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938779	T	G	0	LjRoot262_2-3	0	134	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938780	A	ATGC	3	LjRoot262_2-3	2	133	0.9851851851851852	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938786	G	T	0	LjRoot262_2-3	1	134	0.9925925925925926	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938790	A	G	0	LjRoot262_2-3	0	133	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938791	T	C	0	LjRoot262_2-3	0	134	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938798	C	G	0	LjRoot262_2-3	1	134	0.9925925925925926	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938799	C	G	0	LjRoot262_2-3	0	134	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938800	T	C	0	LjRoot262_2-3	0	135	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938804	T	C	0	LjRoot262_2-3	0	133	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938807	G	C	0	LjRoot262_2-3	0	134	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938812	A	T	0	LjRoot262_2-3	0	134	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938813	G	T	0	LjRoot262_2-3	0	134	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938818	CAA	C	2	LjRoot262_2-3	0	135	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938821	G	C	0	LjRoot262_2-3	0	135	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938823	A	C	0	LjRoot262_2-3	0	135	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938826	T	G	0	LjRoot262_2-3	0	135	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938828	G	T	0	LjRoot262_2-3	0	135	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938833	CG	C	1	LjRoot262_2-3	0	133	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	937556	938887	+	0	LjRoot262	LjRoot262_gene_4415	K00380	cysJ	sulfite reductase (NADPH) flavoprotein alpha-component [EC:1.8.1.2]	0	938835	G	C	0	LjRoot262_2-3	0	133	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	tRNA	938933	939007	+		LjRoot262	LjRoot262_gene_4420		tRNA-Glu(ctc)		32	938901	GC	G	1	LjRoot262_2-3	0	139	1.0	2-3	col0	10	lj
+LjRoot262_contig_1	CDS	4469365	4469751	+	0	LjRoot262	LjRoot262_gene_20675	K20971	ladS	two-component system, sensor histidine kinase LadS	0	4469648	GCC	G	2	LjRoot262_2-3	0	116	1.0	2-3	col0	10	lj
+Root685_contig_1	CDS	875304	875774	+	0	Root685	Root685_gene_4225		hypothetical protein		0	875486	C	G	0	Root685_2-68	0	100	1.0	2-68	col0	3	at
+LjRoot44_contig_1	CDS	370639	371463	-	0	LjRoot44	LjRoot44_gene_1885	K02406	fliC	flagellin	0	371226	C	G	0	LjRoot44_74	52	56	0.5185185185185185	74	gifu	18	lj
+LjRoot44_contig_1	CDS	891741	892511	+	0	LjRoot44	LjRoot44_gene_4530	K03975	dedA	membrane-associated protein	0	892053	G	T	0	LjRoot44_74	0	113	1.0	74	gifu	18	lj
+LjRoot44_contig_1	CDS	1491506	1492543	-	0	LjRoot44	LjRoot44_gene_7560	K02529	lacI, galR	LacI family transcriptional regulator	0	1492411	G	A	0	LjRoot44_74	0	91	1.0	74	gifu	18	lj
+LjRoot44_contig_1	CDS	1585820	1587082	+	0	LjRoot44	LjRoot44_gene_8010	K00965	galT, GALT	UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]	0	1586064	A	G	0	LjRoot44_74	0	117	1.0	74	gifu	18	lj
+LjRoot44_contig_1	CDS	1626491	1627852	-	0	LjRoot44	LjRoot44_gene_8210	K00130	betB, gbsA	betaine-aldehyde dehydrogenase [EC:1.2.1.8]	0	1626806	G	A	0	LjRoot44_74	0	89	1.0	74	gifu	18	lj
+LjRoot44_contig_1	CDS	2047560	2048147	+	0	LjRoot44	LjRoot44_gene_10240	K03719	lrp	Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein	0	2047984	T	C	0	LjRoot44_74	72	40	0.35714285714285715	74	gifu	18	lj
+LjRoot44_contig_1	CDS	3109147	3110337	-	0	LjRoot44	LjRoot44_gene_15235	K05350	bglB	beta-glucosidase [EC:3.2.1.21]	0	3110334	GCA	G	2	LjRoot44_74	0	111	1.0	74	gifu	18	lj
+LjRoot44_contig_1	CDS	3109147	3110337	-	0	LjRoot44	LjRoot44_gene_15235	K05350	bglB	beta-glucosidase [EC:3.2.1.21]	7	3110344	TCG	T	2	LjRoot44_74	0	112	1.0	74	gifu	18	lj
+LjRoot44_contig_1	CDS	3109147	3110337	-	0	LjRoot44	LjRoot44_gene_15235	K05350	bglB	beta-glucosidase [EC:3.2.1.21]	11	3110348	G	C	0	LjRoot44_74	0	112	1.0	74	gifu	18	lj
+LjRoot222_contig_1	CDS	407698	408654	+	0	LjRoot222	LjRoot222_gene_2230	K03275	waaO, rfaI	UDP-glucose:(glucosyl)LPS alpha-1,3-glucosyltransferase [EC:2.4.1.-]	0	407736	C	A	0	LjRoot222_2-43	0	14	1.0	2-43	gifu	18	lj
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815097	C	T	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815098	G	C	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815102	C	G	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815105	T	A	0	Root142_44	0	98	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815106	G	T	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815108	T	G	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815109	G	C	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815111	C	G	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815128	A	C	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815129	A	G	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815130	G	A	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815135	C	T	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815136	C	G	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815137	T	A	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815141	C	CGACGGT	6	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815144	A	C	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815148	A	T	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815151	C	A	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815152	G	A	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815153	G	C	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815155	G	A	0	Root142_44	0	99	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815228	T	C	0	Root142_44	0	101	1.0	44	gifu	15	at
+Root142_contig_1	CDS	814887	815942	+	0	Root142	Root142_gene_4035		hypothetical protein		0	815368	G	A	0	Root142_44	0	103	1.0	44	gifu	15	at
+Root142_contig_1	CDS	1603902	1604519	-	0	Root142	Root142_gene_7950	K02986	RP-S4, rpsD	small subunit ribosomal protein S4	0	1604478	A	C	0	Root142_44	0	115	1.0	44	gifu	15	at
+Root142_contig_1	CDS	1967361	1967729	+	0	Root142	Root142_gene_9765		hypothetical protein		0	1967516	T	G	0	Root142_44	0	94	1.0	44	gifu	15	at
+Root142_contig_2	CDS	81283	81933	-	0	Root142	Root142_gene_19980	K22293	rspR	GntR family transcriptional regulator, rspAB operon transcriptional repressor	0	81818	C	A	0	Root142_44	0	86	1.0	44	gifu	15	at
+Root142_contig_2	CDS	1657038	1658822	-	0	Root142	Root142_gene_27245	K13590	dgcB	diguanylate cyclase [EC:2.7.7.65]	0	1657570	T	C	0	Root142_44	72	28	0.28	44	gifu	15	at
+Root142_contig_4	CDS	712016	712957	-	0	Root142	Root142_gene_36590	K02051	ABC.SN.S	NitT/TauT family transport system substrate-binding protein	0	712228	A	AG	1	Root142_44	1	94	0.9894736842105263	44	gifu	15	at
+LjRoot72_contig_1	CDS	2153229	2155676	+	0	LjRoot72	LjRoot72_gene_9905	K01890	FARSB, pheT	phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	0	2154073	A	G	0	LjRoot72_54	0	137	1.0	54	gifu	17	lj
+Root935_contig_1	CDS	947712	965141	-	0	Root935	Root935_gene_4345		hypothetical protein		0	961617	CTCATAAGCATAATTATT	C	17	Root935_134	79	44	0.35772357723577236	134	col0	7.2	lj
+Root935_contig_1	CDS	1299640	1301196	+	0	Root935	Root935_gene_5860		hypothetical protein		109	1299531	TATAAATTGTATGTGGTATAATTA	T	23	Root935_134	0	100	1.0	134	col0	7.2	lj
+Root935_contig_1	CDS	3572560	3573696	+	0	Root935	Root935_gene_15720	K01089	hisB	imidazoleglycerol-phosphate dehydratase / histidinol-phosphatase [EC:4.2.1.19 3.1.3.15]	0	3572989	T	G	0	Root935_134	0	118	1.0	134	col0	7.2	lj
+Root935_contig_1	CDS	3572560	3573696	+	0	Root935	Root935_gene_15720	K01089	hisB	imidazoleglycerol-phosphate dehydratase / histidinol-phosphatase [EC:4.2.1.19 3.1.3.15]	0	3572990	T	C	0	Root935_134	0	118	1.0	134	col0	7.2	lj
+Root480_contig_1	CDS	588624	589748	+	0	Root480	Root480_gene_2510	K16150	K16150	glycogen synthase [EC:2.4.1.11]	0	589665	C	A	0	Root480_21	0	125	1.0	21	gifu	12	at
+Root480_contig_1	CDS	1277366	1278220	+	0	Root480	Root480_gene_5575	K00786	E2.4.-.-	glycosyltransferase [EC:2.4.-.-]	0	1277616	A	G	0	Root480_21	0	133	1.0	21	gifu	12	at
+LjRoot60_contig_1	CDS	1283917	1286358	-	0	LjRoot60	LjRoot60_gene_5915		hypothetical protein		0	1284458	TG	T	1	LjRoot60_2-94	1	113	0.9912280701754386	2-94	col0	9	lj
+LjRoot60_contig_1	CDS	1283917	1286358	-	0	LjRoot60	LjRoot60_gene_5915		hypothetical protein		0	1284472	C	CATCGGTTGCGCGATCGGCCGGCGGCCACGCTGGTAG	36	LjRoot60_2-94	3	104	0.9719626168224299	2-94	col0	9	lj
+LjRoot60_contig_1	CDS	1738422	1739354	+	0	LjRoot60	LjRoot60_gene_8205	K01915	glnA, GLUL	glutamine synthetase [EC:6.3.1.2]	0	1739115	T	A	0	LjRoot60_2-94	0	112	1.0	2-94	col0	9	lj
+LjRoot60_contig_1	CDS	2283746	2285134	+	0	LjRoot60	LjRoot60_gene_10810	K02416	fliM	flagellar motor switch protein FliM	0	2284474	C	CGACAG	5	LjRoot60_2-94	0	129	1.0	2-94	col0	9	lj
+LjRoot60_contig_1	CDS	2794540	2795496	-	0	LjRoot60	LjRoot60_gene_13125	K03284	corA	magnesium transporter	0	2795286	C	T	0	LjRoot60_2-94	0	113	1.0	2-94	col0	9	lj
+LjRoot60_contig_1	CDS	3055796	3056938	-	0	LjRoot60	LjRoot60_gene_14340	K01589	purK	5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]	0	3056787	T	C	0	LjRoot60_2-94	0	103	1.0	2-94	col0	9	lj
+LjRoot60_contig_1	CDS	3230051	3231454	+	0	LjRoot60	LjRoot60_gene_15210	K02667	pilR, pehR	two-component system, NtrC family, response regulator PilR	0	3230440	G	GC	1	LjRoot60_2-94	2	94	0.9791666666666666	2-94	col0	9	lj
+LjRoot60_contig_1	CDS	3353015	3353710	-	0	LjRoot60	LjRoot60_gene_15760	K02663	pilN	type IV pilus assembly protein PilN	52	3353762	T	TA	1	LjRoot60_2-94	0	104	1.0	2-94	col0	9	lj
+LjRoot60_contig_1	CDS	3600954	3602393	+	0	LjRoot60	LjRoot60_gene_16945	K00404	ccoN	cytochrome c oxidase cbb3-type subunit I [EC:1.9.3.1]	85	3600869	C	CG	1	LjRoot60_2-94	57	38	0.4	2-94	col0	9	lj
+LjRoot33_contig_1	CDS	562023	563948	+	0	LjRoot33	LjRoot33_gene_2470	K03147	thiC	phosphomethylpyrimidine synthase [EC:4.1.99.17]	0	562940	A	G	0	LjRoot33_72	15	168	0.9180327868852459	72	gifu	18	lj
+LjRoot33_contig_1	CDS	562023	563948	+	0	LjRoot33	LjRoot33_gene_2470	K03147	thiC	phosphomethylpyrimidine synthase [EC:4.1.99.17]	0	563219	C	G	0	LjRoot33_72	15	166	0.9171270718232044	72	gifu	18	lj
+LjRoot33_contig_1	CDS	562023	563948	+	0	LjRoot33	LjRoot33_gene_2470	K03147	thiC	phosphomethylpyrimidine synthase [EC:4.1.99.17]	0	563423	T	C	0	LjRoot33_72	15	168	0.9180327868852459	72	gifu	18	lj
+LjRoot33_contig_1	CDS	562023	563948	+	0	LjRoot33	LjRoot33_gene_2470	K03147	thiC	phosphomethylpyrimidine synthase [EC:4.1.99.17]	0	563476	C	G	0	LjRoot33_72	15	164	0.9162011173184358	72	gifu	18	lj
+LjRoot33_contig_1	CDS	562023	563948	+	0	LjRoot33	LjRoot33_gene_2470	K03147	thiC	phosphomethylpyrimidine synthase [EC:4.1.99.17]	0	563480	C	G	0	LjRoot33_72	15	164	0.9162011173184358	72	gifu	18	lj
+LjRoot33_contig_1	CDS	562023	563948	+	0	LjRoot33	LjRoot33_gene_2470	K03147	thiC	phosphomethylpyrimidine synthase [EC:4.1.99.17]	0	563494	A	T	0	LjRoot33_72	15	164	0.9162011173184358	72	gifu	18	lj
+LjRoot33_contig_1	CDS	562023	563948	+	0	LjRoot33	LjRoot33_gene_2470	K03147	thiC	phosphomethylpyrimidine synthase [EC:4.1.99.17]	0	563566	T	A	0	LjRoot33_72	15	157	0.9127906976744186	72	gifu	18	lj
+LjRoot33_contig_1	CDS	562023	563948	+	0	LjRoot33	LjRoot33_gene_2470	K03147	thiC	phosphomethylpyrimidine synthase [EC:4.1.99.17]	0	563646	A	G	0	LjRoot33_72	16	157	0.9075144508670521	72	gifu	18	lj
+LjRoot33_contig_1	CDS	562023	563948	+	0	LjRoot33	LjRoot33_gene_2470	K03147	thiC	phosphomethylpyrimidine synthase [EC:4.1.99.17]	0	563660	G	C	0	LjRoot33_72	16	157	0.9075144508670521	72	gifu	18	lj
+LjRoot33_contig_1	CDS	562023	563948	+	0	LjRoot33	LjRoot33_gene_2470	K03147	thiC	phosphomethylpyrimidine synthase [EC:4.1.99.17]	0	563661	C	T	0	LjRoot33_72	17	156	0.9017341040462428	72	gifu	18	lj
+LjRoot33_contig_1	CDS	562023	563948	+	0	LjRoot33	LjRoot33_gene_2470	K03147	thiC	phosphomethylpyrimidine synthase [EC:4.1.99.17]	0	563664	T	A	0	LjRoot33_72	16	157	0.9075144508670521	72	gifu	18	lj
+LjRoot33_contig_1	CDS	562023	563948	+	0	LjRoot33	LjRoot33_gene_2470	K03147	thiC	phosphomethylpyrimidine synthase [EC:4.1.99.17]	0	563665	C	G	0	LjRoot33_72	16	157	0.9075144508670521	72	gifu	18	lj
+LjRoot33_contig_1	CDS	562023	563948	+	0	LjRoot33	LjRoot33_gene_2470	K03147	thiC	phosphomethylpyrimidine synthase [EC:4.1.99.17]	0	563735	A	G	0	LjRoot33_72	17	150	0.8982035928143712	72	gifu	18	lj
+LjRoot33_contig_1	CDS	663633	664910	+	0	LjRoot33	LjRoot33_gene_2905	K18334	fucD	L-fuconate dehydratase [EC:4.2.1.68]	245	663388	T	G	0	LjRoot33_72	0	11	1.0	72	gifu	18	lj
+LjRoot33_contig_1	CDS	1517791	1518540	-	0	LjRoot33	LjRoot33_gene_6685		hypothetical protein		0	1518226	C	T	0	LjRoot33_72	11	2	0.15384615384615385	72	gifu	18	lj
+LjRoot33_contig_1	CDS	1638727	1639500	-	0	LjRoot33	LjRoot33_gene_7340	K22278	pdgA	peptidoglycan-N-acetylglucosamine deacetylase [EC:3.5.1.104]	13	1639513	G	A	0	LjRoot33_72	11	2	0.15384615384615385	72	gifu	18	lj
+LjRoot33_contig_1	CDS	2582295	2583137	+	0	LjRoot33	LjRoot33_gene_11730	K07467	rstA1	phage replication initiation protein	308	2581987	G	A	0	LjRoot33_72	9	33	0.7857142857142857	72	gifu	18	lj
+LjRoot33_contig_1	CDS	2619516	2620118	+	0	LjRoot33	LjRoot33_gene_11935	K02652	pilB	type IV pilus assembly protein PilB	0	2620071	T	C	0	LjRoot33_72	9	2	0.18181818181818182	72	gifu	18	lj
+LjRoot33_contig_1	CDS	3083851	3085164	-	0	LjRoot33	LjRoot33_gene_14005	K01939	purA, ADSS	adenylosuccinate synthase [EC:6.3.4.4]	0	3085052	C	T	0	LjRoot33_72	12	2	0.14285714285714285	72	gifu	18	lj
+LjRoot33_contig_1	CDS	3315117	3316793	+	0	LjRoot33	LjRoot33_gene_15210	K03406	mcp	methyl-accepting chemotaxis protein	270	3314847	C	CT	1	LjRoot33_72	8	7	0.4666666666666667	72	gifu	18	lj
+LjRoot33_contig_1	CDS	4201337	4201549	-	0	LjRoot33	LjRoot33_gene_19090	K02970	RP-S21, MRPS21, rpsU	small subunit ribosomal protein S21	0	4201524	T	C	0	LjRoot33_72	0	14	1.0	72	gifu	18	lj
+LjRoot33_contig_1	CDS	4327461	4327754	+	0	LjRoot33	LjRoot33_gene_19690	K14393	actP	cation/acetate symporter	0	4327669	T	C	0	LjRoot33_72	0	8	1.0	72	gifu	18	lj
+LjRoot33_contig_1	CDS	4400143	4401345	+	0	LjRoot33	LjRoot33_gene_20035	K03320	amt, AMT, MEP	ammonium transporter, Amt family	236	4399907	G	GC	1	LjRoot33_72	10	6	0.375	72	gifu	18	lj
+LjRoot33_contig_1	CDS	5028318	5032424	-	0	LjRoot33	LjRoot33_gene_23015	K03043	rpoB	DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]	0	5029557	G	C	0	LjRoot33_72	0	22	1.0	72	gifu	18	lj
+LjRoot17_contig_1	CDS	23813	24607	+	0	LjRoot17	LjRoot17_gene_115	K22010	pdtaR	two-component system, response regulator PdtaR	0	23896	C	CG	1	LjRoot17_62	0	103	1.0	62	gifu	17	lj
+LjRoot17_contig_1	CDS	2311215	2312093	-	0	LjRoot17	LjRoot17_gene_11390	K02410	fliG	flagellar motor switch protein FliG	133	2312226	CT	C	1	LjRoot17_62	2	89	0.978021978021978	62	gifu	17	lj
+LjRoot17_contig_1	CDS	2692908	2694575	-	0	LjRoot17	LjRoot17_gene_13410	K13245	pdeA	c-di-GMP-specific phosphodiesterase [EC:3.1.4.52]	0	2693278	GT	G	1	LjRoot17_62	48	21	0.30434782608695654	62	gifu	17	lj
+LjRoot17_contig_1	CDS	3377315	3378622	-	0	LjRoot17	LjRoot17_gene_16660		hypothetical protein		0	3377595	A	G	0	LjRoot17_62	0	89	1.0	62	gifu	17	lj
+LjRoot17_contig_1	CDS	3377315	3378622	-	0	LjRoot17	LjRoot17_gene_16660		hypothetical protein		0	3377597	A	C	0	LjRoot17_62	0	90	1.0	62	gifu	17	lj
+LjRoot17_contig_1	CDS	3377315	3378622	-	0	LjRoot17	LjRoot17_gene_16660		hypothetical protein		0	3377598	T	C	0	LjRoot17_62	0	90	1.0	62	gifu	17	lj
+LjRoot17_contig_1	CDS	3377315	3378622	-	0	LjRoot17	LjRoot17_gene_16660		hypothetical protein		0	3377599	A	G	0	LjRoot17_62	0	90	1.0	62	gifu	17	lj
+LjRoot17_contig_1	CDS	3377315	3378622	-	0	LjRoot17	LjRoot17_gene_16660		hypothetical protein		0	3377602	T	C	0	LjRoot17_62	0	89	1.0	62	gifu	17	lj
+LjRoot17_contig_1	CDS	3377315	3378622	-	0	LjRoot17	LjRoot17_gene_16660		hypothetical protein		0	3377604	T	G	0	LjRoot17_62	0	90	1.0	62	gifu	17	lj
+LjRoot17_contig_1	CDS	3377315	3378622	-	0	LjRoot17	LjRoot17_gene_16660		hypothetical protein		0	3377648	T	C	0	LjRoot17_62	0	90	1.0	62	gifu	17	lj
+LjRoot17_contig_1	CDS	3377315	3378622	-	0	LjRoot17	LjRoot17_gene_16660		hypothetical protein		0	3377653	A	G	0	LjRoot17_62	0	90	1.0	62	gifu	17	lj
+LjRoot17_contig_1	CDS	3377315	3378622	-	0	LjRoot17	LjRoot17_gene_16660		hypothetical protein		0	3377655	CT	C	1	LjRoot17_62	0	90	1.0	62	gifu	17	lj
+LjRoot17_contig_1	CDS	3377315	3378622	-	0	LjRoot17	LjRoot17_gene_16660		hypothetical protein		0	3377660	A	C	0	LjRoot17_62	0	90	1.0	62	gifu	17	lj
+LjRoot17_contig_1	CDS	3377315	3378622	-	0	LjRoot17	LjRoot17_gene_16660		hypothetical protein		0	3377661	GA	G	1	LjRoot17_62	0	90	1.0	62	gifu	17	lj
+LjRoot17_contig_1	CDS	3377315	3378622	-	0	LjRoot17	LjRoot17_gene_16660		hypothetical protein		0	3377665	T	C	0	LjRoot17_62	0	90	1.0	62	gifu	17	lj
+Root61_contig_1	CDS	729374	729976	-	0	Root61	Root61_gene_3270	K09017	rutR	TetR/AcrR family transcriptional regulator	0	729828	A	G	0	Root61_2-34	0	106	1.0	2-34	gifu	15	at
+Root61_contig_1	CDS	1554691	1554993	+	0	Root61	Root61_gene_7285		hypothetical protein		0	1554757	G	A	0	Root61_2-34	4	117	0.9669421487603306	2-34	gifu	15	at
+Root61_contig_1	CDS	1554691	1554993	+	0	Root61	Root61_gene_7285		hypothetical protein		0	1554759	C	A	0	Root61_2-34	0	119	1.0	2-34	gifu	15	at
+Root61_contig_1	CDS	1655175	1656833	+	0	Root61	Root61_gene_7820	K06158	ABCF3	ATP-binding cassette, subfamily F, member 3	0	1655707	C	G	0	Root61_2-34	0	108	1.0	2-34	gifu	15	at
+Root61_contig_1	CDS	2742976	2743995	+	0	Root61	Root61_gene_13165	K02028	ABC.PA.A	polar amino acid transport system ATP-binding protein [EC:7.4.2.1]	125	2742851	G	T	0	Root61_2-34	0	137	1.0	2-34	gifu	15	at
+Root61_contig_1	CDS	2779620	2780609	-	0	Root61	Root61_gene_13340	K02600	nusA	N utilization substance protein A	0	2780380	C	T	0	Root61_2-34	0	124	1.0	2-34	gifu	15	at
+Root61_contig_1	CDS	3082810	3083487	-	0	Root61	Root61_gene_14710	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	5	3083492	A	G	0	Root61_2-34	0	109	1.0	2-34	gifu	15	at
+Root61_contig_1	CDS	3082810	3083487	-	0	Root61	Root61_gene_14710	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	6	3083493	T	TG	1	Root61_2-34	0	108	1.0	2-34	gifu	15	at
+Root61_contig_1	CDS	3082810	3083487	-	0	Root61	Root61_gene_14710	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	7	3083494	C	G	0	Root61_2-34	0	109	1.0	2-34	gifu	15	at
+Root61_contig_1	CDS	3082810	3083487	-	0	Root61	Root61_gene_14710	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	10	3083497	G	C	0	Root61_2-34	0	109	1.0	2-34	gifu	15	at
+Root61_contig_1	CDS	3082810	3083487	-	0	Root61	Root61_gene_14710	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	13	3083500	C	T	0	Root61_2-34	0	109	1.0	2-34	gifu	15	at
+Root61_contig_1	CDS	3082810	3083487	-	0	Root61	Root61_gene_14710	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	18	3083505	G	GT	1	Root61_2-34	0	108	1.0	2-34	gifu	15	at
+Root61_contig_1	CDS	3082810	3083487	-	0	Root61	Root61_gene_14710	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	22	3083509	T	A	0	Root61_2-34	0	108	1.0	2-34	gifu	15	at
+Root61_contig_1	CDS	3082810	3083487	-	0	Root61	Root61_gene_14710	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	23	3083510	C	G	0	Root61_2-34	0	109	1.0	2-34	gifu	15	at
+Root61_contig_1	CDS	3083515	3084711	-	0	Root61	Root61_gene_14715	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	0	3083518	C	G	0	Root61_2-34	0	109	1.0	2-34	gifu	15	at
+Root61_contig_1	CDS	3083515	3084711	-	0	Root61	Root61_gene_14715	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	0	3083521	A	G	0	Root61_2-34	0	109	1.0	2-34	gifu	15	at
+Root61_contig_1	CDS	3083515	3084711	-	0	Root61	Root61_gene_14715	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	0	3083526	T	G	0	Root61_2-34	0	109	1.0	2-34	gifu	15	at
+Root61_contig_1	CDS	3758589	3760796	-	0	Root61	Root61_gene_17685	K03695	clpB	ATP-dependent Clp protease ATP-binding subunit ClpB	0	3760068	G	A	0	Root61_2-34	0	118	1.0	2-34	gifu	15	at
+Root265_contig_1	CDS	428636	429406	-	0	Root265	Root265_gene_1975	K05799	pdhR	GntR family transcriptional regulator, transcriptional repressor for pyruvate dehydrogenase complex	0	429111	C	T	0	Root265_2-74	28	61	0.6853932584269663	2-74	col0	4	at
+Root265_contig_1	CDS	716700	718532	-	0	Root265	Root265_gene_3295	K21000	pslG	polysaccharide biosynthesis protein PslG	86	718618	T	C	0	Root265_2-74	0	106	1.0	2-74	col0	4	at
+Root265_contig_1	CDS	984106	986256	-	0	Root265	Root265_gene_4575	K13525	VCP, CDC48	transitional endoplasmic reticulum ATPase	0	984752	T	C	0	Root265_2-74	0	100	1.0	2-74	col0	4	at
+Root265_contig_1	CDS	1038650	1039732	+	0	Root265	Root265_gene_4855	K00075	murB	UDP-N-acetylmuramate dehydrogenase [EC:1.3.1.98]	0	1039368	C	T	0	Root265_2-74	0	93	1.0	2-74	col0	4	at
+Root265_contig_1	CDS	1607029	1607424	+	0	Root265	Root265_gene_7590	K06075	slyA	MarR family transcriptional regulator, transcriptional regulator for hemolysin	74	1606955	G	T	0	Root265_2-74	0	78	1.0	2-74	col0	4	at
+Root265_contig_1	CDS	2003421	2004614	-	0	Root265	Root265_gene_9565	K07058	K07058	membrane protein	0	2004022	T	C	0	Root265_2-74	0	98	1.0	2-74	col0	4	at
+Root265_contig_1	CDS	2046928	2048373	+	0	Root265	Root265_gene_9785	K05917	CYP51	sterol 14alpha-demethylase [EC:1.14.14.154]	0	2047290	T	G	0	Root265_2-74	0	80	1.0	2-74	col0	4	at
+Root265_contig_1	CDS	3192464	3193753	+	0	Root265	Root265_gene_15465	K01925	murD	UDP-N-acetylmuramoylalanine--D-glutamate ligase [EC:6.3.2.9]	0	3193335	C	T	0	Root265_2-74	0	91	1.0	2-74	col0	4	at
+Root265_contig_1	CDS	3995094	3996017	-	0	Root265	Root265_gene_19360	K00611	OTC, argF, argI	ornithine carbamoyltransferase [EC:2.1.3.3]	0	3995649	T	C	0	Root265_2-74	0	84	1.0	2-74	col0	4	at
+Root265_contig_1	CDS	4643633	4644397	-	0	Root265	Root265_gene_22310	K13641	iclR	IclR family transcriptional regulator, acetate operon repressor	0	4644091	C	T	0	Root265_2-74	0	95	1.0	2-74	col0	4	at
+Root265_contig_1	CDS	5238118	5239521	+	0	Root265	Root265_gene_25230	K11103	dctA	aerobic C4-dicarboxylate transport protein	0	5238236	T	TCGTCGCCGG	9	Root265_2-74	14	93	0.8691588785046729	2-74	col0	4	at
+Root265_contig_1	CDS	6637424	6639562	-	0	Root265	Root265_gene_32325	K05366	mrcA	penicillin-binding protein 1A [EC:2.4.1.129 3.4.16.4]	272	6639834	T	G	0	Root265_2-74	0	80	1.0	2-74	col0	4	at
+Root265_contig_1	CDS	6653638	6654978	-	0	Root265	Root265_gene_32395	K23086	ggH	glucosylglycerate hydrolase [EC:3.2.1.208]	0	6654901	A	C	0	Root265_2-74	15	82	0.845360824742268	2-74	col0	4	at
+Root935_contig_1	CDS	764382	765080	-	0	Root935	Root935_gene_3550	K02479	K02479	two-component system, NarL family, response regulator	0	764462	GT	G	1	Root935_2-77	3	107	0.9727272727272728	2-77	col0	4	at
+Root935_contig_1	CDS	1296518	1298293	+	0	Root935	Root935_gene_5835		hypothetical protein		0	1297768	C	CA	1	Root935_2-77	3	97	0.97	2-77	col0	4	at
+Root935_contig_1	CDS	1811389	1811772	+	0	Root935	Root935_gene_8050	K09946	K09946	uncharacterized protein	210	1811179	T	TTAAGAATCTAAGAATC	16	Root935_2-77	10	122	0.9242424242424242	2-77	col0	4	at
+Root935_contig_1	CDS	1811893	1812108	-	0	Root935	Root935_gene_8055		hypothetical protein		0	1811959	TGCAGCAGCTGAATCAACAACA	T	21	Root935_2-77	0	139	1.0	2-77	col0	4	at
+Root935_contig_1	CDS	3572560	3573696	+	0	Root935	Root935_gene_15720	K01089	hisB	imidazoleglycerol-phosphate dehydratase / histidinol-phosphatase [EC:4.2.1.19 3.1.3.15]	0	3572989	T	G	0	Root935_2-77	0	101	1.0	2-77	col0	4	at
+Root935_contig_1	CDS	3572560	3573696	+	0	Root935	Root935_gene_15720	K01089	hisB	imidazoleglycerol-phosphate dehydratase / histidinol-phosphatase [EC:4.2.1.19 3.1.3.15]	0	3572990	T	C	0	Root935_2-77	0	101	1.0	2-77	col0	4	at
+Root935_contig_1	CDS	3597946	3598422	+	0	Root935	Root935_gene_15825		hypothetical protein		0	3598217	C	T	0	Root935_2-77	100	46	0.3150684931506849	2-77	col0	4	at
+LjRoot82_contig_1	CDS	1771078	1784934	+	0	LjRoot82	LjRoot82_gene_8060	K20276	bapA	large repetitive protein	0	1779573	T	C	0	LjRoot82_2-94	1	42	0.9767441860465116	2-94	col0	9	lj
+LjNodule218_contig_1	CDS	2891344	2892519	+	0	LjNodule218	LjNodule218_gene_13790	K00001	E1.1.1.1, adh	alcohol dehydrogenase [EC:1.1.1.1]	0	2891434	A	G	0	LjNodule218_2-23	0	108	1.0	2-23	gifu	13	at
+LjRoot59_contig_1	CDS	958480	959235	+	0	LjRoot59	LjRoot59_gene_4050	K01803	TPI, tpiA	triosephosphate isomerase (TIM) [EC:5.3.1.1]	0	958826	C	T	0	LjRoot59_81	0	131	1.0	81	gifu	18	lj
+LjRoot59_contig_1	CDS	3195024	3196799	-	0	LjRoot59	LjRoot59_gene_13775	K02584	nifA	Nif-specific regulatory protein	0	3195977	T	G	0	LjRoot59_81	0	138	1.0	81	gifu	18	lj
+LjRoot59_contig_1	CDS	4923037	4924326	+	0	LjRoot59	LjRoot59_gene_21670	K01647	CS, gltA	citrate synthase [EC:2.3.3.1]	131	4922906	G	C	0	LjRoot59_81	1	146	0.9931972789115646	81	gifu	18	lj
+LjRoot59_contig_1	CDS	5048722	5051472	+	0	LjRoot59	LjRoot59_gene_22290	K07678	barA, gacS, varS	two-component system, NarL family, sensor histidine kinase BarA [EC:2.7.13.3]	0	5050048	G	A	0	LjRoot59_81	85	35	0.2916666666666667	81	gifu	18	lj
+LjRoot59_contig_1	CDS	5411541	5411969	+	0	LjRoot59	LjRoot59_gene_23875	K02339	holC	DNA polymerase III subunit chi [EC:2.7.7.7]	0	5411570	C	A	0	LjRoot59_81	0	125	1.0	81	gifu	18	lj
+LjRoot222_contig_1	CDS	2217012	2218895	+	0	LjRoot222	LjRoot222_gene_11115	K03338	iolC	5-dehydro-2-deoxygluconokinase [EC:2.7.1.92]	0	2218408	A	C	0	LjRoot222_80	0	120	1.0	80	gifu	18	lj
+LjRoot222_contig_1	CDS	4017686	4018579	+	0	LjRoot222	LjRoot222_gene_20155	K07214	fes	enterochelin esterase and related enzymes	0	4018498	T	A	0	LjRoot222_80	0	122	1.0	80	gifu	18	lj
+LjRoot80_contig_1	CDS	821860	822621	+	0	LjRoot80	LjRoot80_gene_3955	K00059	fabG	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	0	822322	A	T	0	LjRoot80_2-68	0	31	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	834697	835473	+	0	LjRoot80	LjRoot80_gene_4020	K02049	ABC.SN.A	NitT/TauT family transport system ATP-binding protein	0	835052	G	C	0	LjRoot80_2-68	0	51	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	3348363	3349445	+	0	LjRoot80	LjRoot80_gene_15960	K05882	E1.1.1.91	aryl-alcohol dehydrogenase (NADP+) [EC:1.1.1.91]	0	3349141	C	A	0	LjRoot80_2-68	0	38	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	3357767	3360598	+	0	LjRoot80	LjRoot80_gene_16000	K01681	ACO, acnA	aconitate hydratase [EC:4.2.1.3]	0	3357790	T	C	0	LjRoot80_2-68	0	43	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4164000	4165202	+	0	LjRoot80	LjRoot80_gene_19705	K16593	bioI, CYP107H	pimeloyl-[acyl-carrier protein] synthase [EC:1.14.14.46]	0	4165021	T	G	0	LjRoot80_2-68	0	40	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4933876	T	G	0	LjRoot80_2-68	0	35	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4933887	C	A	0	LjRoot80_2-68	0	34	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4933888	G	A	0	LjRoot80_2-68	0	34	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4933916	T	C	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4933919	G	A	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4933922	G	C	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4933933	T	C	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4933945	T	G	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4933954	G	A	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4934056	G	A	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4934059	T	C	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4934065	G	C	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4934068	G	A	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4934071	G	A	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4934098	G	C	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4934104	G	C	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4934116	G	C	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4934162	G	A	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4934163	T	C	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4934173	T	A	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4934180	G	T	0	LjRoot80_2-68	0	32	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4934182	G	C	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4934184	T	C	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_1	CDS	4933654	4935291	-	0	LjRoot80	LjRoot80_gene_23445		hypothetical protein		0	4934195	G	C	0	LjRoot80_2-68	0	33	1.0	2-68	col0	3	at
+LjRoot80_contig_2	CDS	156226	156711	+	0	LjRoot80	LjRoot80_gene_29660		hypothetical protein		8	156218	G	GC	1	LjRoot80_2-68	1	5	0.8333333333333334	2-68	col0	3	at
+LjRoot80_contig_2	CDS	264138	266123	-	0	LjRoot80	LjRoot80_gene_30255		hypothetical protein		0	265204	T	C	0	LjRoot80_2-68	0	26	1.0	2-68	col0	3	at
+LjRoot33_contig_1	CDS	108298	109194	-	0	LjRoot33	LjRoot33_gene_525	K03190	ureD, ureH	urease accessory protein	0	108616	T	C	0	LjRoot33_2-43	0	127	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	129176	130885	-	0	LjRoot33	LjRoot33_gene_625	K03406	mcp	methyl-accepting chemotaxis protein	0	130845	A	G	0	LjRoot33_2-43	0	109	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	663633	664910	+	0	LjRoot33	LjRoot33_gene_2905	K18334	fucD	L-fuconate dehydratase [EC:4.2.1.68]	245	663388	T	G	0	LjRoot33_2-43	0	122	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	791640	792137	+	0	LjRoot33	LjRoot33_gene_3490	K06195	apaG	ApaG protein	0	791877	C	T	0	LjRoot33_2-43	0	137	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	rRNA	795595	797123	+		LjRoot33	LjRoot33_gene_3515		16S ribosomal RNA		0	796259	A	G	0	LjRoot33_2-43	0	139	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	881222	882127	-	0	LjRoot33	LjRoot33_gene_3905	K21757	benM	LysR family transcriptional regulator, benzoate and cis,cis-muconate-responsive activator of ben and cat genes	0	881863	C	T	0	LjRoot33_2-43	0	131	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	1002271	1004970	+	0	LjRoot33	LjRoot33_gene_4425	K01256	pepN	aminopeptidase N [EC:3.4.11.2]	147	1002124	T	C	0	LjRoot33_2-43	0	121	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	1134385	1135662	+	0	LjRoot33	LjRoot33_gene_5065	K15576	nrtA, nasF, cynA	nitrate/nitrite transport system substrate-binding protein	34	1134351	CT	C	1	LjRoot33_2-43	8	109	0.9316239316239316	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	1442538	1445243	-	0	LjRoot33	LjRoot33_gene_6395	K03555	mutS	DNA mismatch repair protein MutS	0	1444762	C	T	0	LjRoot33_2-43	1	113	0.9912280701754386	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	1854316	1855773	-	0	LjRoot33	LjRoot33_gene_8380	K00040	uxuB	fructuronate reductase [EC:1.1.1.57]	0	1855347	A	G	0	LjRoot33_2-43	0	109	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	2053799	2054395	-	0	LjRoot33	LjRoot33_gene_9350		hypothetical protein		0	2054131	C	T	0	LjRoot33_2-43	0	113	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	2093466	2094272	-	0	LjRoot33	LjRoot33_gene_9525	K00059	fabG	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	0	2093885	C	T	0	LjRoot33_2-43	0	135	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	2101884	2106524	-	0	LjRoot33	LjRoot33_gene_9575	K12240	pchF	pyochelin synthetase	0	2103652	C	T	0	LjRoot33_2-43	0	150	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	2319649	2320563	-	0	LjRoot33	LjRoot33_gene_10560	K10118	msmF	raffinose/stachyose/melibiose transport system permease protein	0	2319786	A	G	0	LjRoot33_2-43	0	124	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	2449513	2450778	-	0	LjRoot33	LjRoot33_gene_11105	K11529	gck, gckA, GLYCTK	glycerate 2-kinase [EC:2.7.1.165]	0	2450677	T	TG	1	LjRoot33_2-43	9	89	0.9081632653061225	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	2488386	2489675	+	0	LjRoot33	LjRoot33_gene_11330		hypothetical protein		0	2488431	G	A	0	LjRoot33_2-43	0	102	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	2713805	2714986	+	0	LjRoot33	LjRoot33_gene_12355	K05916	hmp, YHB1	nitric oxide dioxygenase [EC:1.14.12.17]	0	2714286	T	C	0	LjRoot33_2-43	0	138	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	2976511	2977419	-	0	LjRoot33	LjRoot33_gene_13530	K18900	bpeT	LysR family transcriptional regulator, regulator for bpeEF and oprC	0	2977268	C	T	0	LjRoot33_2-43	1	121	0.9918032786885246	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	3038804	3041866	+	0	LjRoot33	LjRoot33_gene_13820	K08300	rne	ribonuclease E [EC:3.1.26.12]	0	3039586	A	G	0	LjRoot33_2-43	0	133	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	3534229	3535938	+	0	LjRoot33	LjRoot33_gene_16180	K04045	hscC	molecular chaperone HscC	73	3534156	A	AG	1	LjRoot33_2-43	9	104	0.9203539823008849	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	3620604	3622709	+	0	LjRoot33	LjRoot33_gene_16560	K02014	TC.FEV.OM	iron complex outermembrane recepter protein	0	3620650	T	C	0	LjRoot33_2-43	0	139	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	3844966	3847302	+	0	LjRoot33	LjRoot33_gene_17550	K04118	E1.3.1.62	pimeloyl-CoA dehydrogenase [EC:1.3.1.62]	0	3845271	G	A	0	LjRoot33_2-43	0	134	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	3873560	3874300	-	0	LjRoot33	LjRoot33_gene_17675	K02483	K02483	two-component system, OmpR family, response regulator	0	3873828	T	C	0	LjRoot33_2-43	0	100	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	4195858	4198245	-	0	LjRoot33	LjRoot33_gene_19075	K03086	rpoD	RNA polymerase primary sigma factor	0	4196275	T	C	0	LjRoot33_2-43	0	126	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	4201337	4201549	-	0	LjRoot33	LjRoot33_gene_19090	K02970	RP-S21, MRPS21, rpsU	small subunit ribosomal protein S21	0	4201524	T	C	0	LjRoot33_2-43	0	121	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	4276805	4277515	+	0	LjRoot33	LjRoot33_gene_19405	K00992	murU	N-acetyl-alpha-D-muramate 1-phosphate uridylyltransferase [EC:2.7.7.99]	0	4277395	T	C	0	LjRoot33_2-43	0	120	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	4303703	4305136	-	0	LjRoot33	LjRoot33_gene_19565	K00873	PK, pyk	pyruvate kinase [EC:2.7.1.40]	0	4304462	G	A	0	LjRoot33_2-43	0	117	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	4400143	4401345	+	0	LjRoot33	LjRoot33_gene_20035	K03320	amt, AMT, MEP	ammonium transporter, Amt family	236	4399907	G	GC	1	LjRoot33_2-43	32	59	0.6483516483516484	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	4553970	4554584	-	0	LjRoot33	LjRoot33_gene_20770	K07152	SCO1_2	protein SCO1/2	0	4554505	G	A	0	LjRoot33_2-43	0	138	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	4862563	4863729	-	0	LjRoot33	LjRoot33_gene_22225	K18302	mexJ	membrane fusion protein, multidrug efflux system	0	4863182	G	C	0	LjRoot33_2-43	5	132	0.9635036496350365	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	4871001	4871384	+	0	LjRoot33	LjRoot33_gene_22265	K20528	trbC	type IV secretion system protein TrbC	0	4871226	G	GTCA	3	LjRoot33_2-43	4	120	0.967741935483871	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	4889303	4890376	-	0	LjRoot33	LjRoot33_gene_22350	K01488	add, ADA	adenosine deaminase [EC:3.5.4.4]	43	4890419	T	C	0	LjRoot33_2-43	0	136	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	5028318	5032424	-	0	LjRoot33	LjRoot33_gene_23015	K03043	rpoB	DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]	0	5029557	G	C	0	LjRoot33_2-43	0	132	1.0	2-43	gifu	18	lj
+LjRoot33_contig_1	CDS	5226575	5227330	-	0	LjRoot33	LjRoot33_gene_23900	K01996	livF	branched-chain amino acid transport system ATP-binding protein	0	5226585	A	G	0	LjRoot33_2-43	1	125	0.9920634920634921	2-43	gifu	18	lj
+LjRoot46_contig_1	CDS	1889562	1889681	+	0	LjRoot46	LjRoot46_gene_9135		hypothetical protein		0	1889658	G	GT	1	LjRoot46_2-45	91	32	0.2601626016260163	2-45	gifu	18	lj
+LjRoot46_contig_1	CDS	3361846	3364155	-	0	LjRoot46	LjRoot46_gene_16205	K21023	mucR	diguanylate cyclase [EC:2.7.7.65]	0	3362048	G	C	0	LjRoot46_2-45	0	142	1.0	2-45	gifu	18	lj
+LjRoot46_contig_1	CDS	3620270	3622225	+	0	LjRoot46	LjRoot46_gene_17430	K19304	mepM	murein DD-endopeptidase [EC:3.4.24.-]	569	3619701	A	G	0	LjRoot46_2-45	0	141	1.0	2-45	gifu	18	lj
+LjRoot46_contig_2	CDS	144089	145195	+	0	LjRoot46	LjRoot46_gene_21860	K02297	cyoA	cytochrome o ubiquinol oxidase subunit II [EC:7.1.1.3]	0	144226	G	T	0	LjRoot46_2-45	0	157	1.0	2-45	gifu	18	lj
+LjRoot46_contig_2	CDS	1004977	1006488	-	0	LjRoot46	LjRoot46_gene_25720	K10441	rbsA	ribose transport system ATP-binding protein [EC:3.6.3.17]	0	1005531	C	G	0	LjRoot46_2-45	0	129	1.0	2-45	gifu	18	lj
+LjRoot60_contig_1	CDS	749908	750594	-	0	LjRoot60	LjRoot60_gene_3365	K10914	crp	CRP/FNR family transcriptional regulator, cyclic AMP receptor protein	0	750101	G	T	0	LjRoot60_72	71	29	0.29	72	gifu	18	lj
+LjRoot60_contig_1	CDS	1283917	1286358	-	0	LjRoot60	LjRoot60_gene_5915		hypothetical protein		0	1284458	TG	T	1	LjRoot60_72	0	104	1.0	72	gifu	18	lj
+LjRoot60_contig_1	CDS	1283917	1286358	-	0	LjRoot60	LjRoot60_gene_5915		hypothetical protein		0	1284472	C	CATCGGTTGCGCGATCGGCCGGCGGCCACGCTGGTAG	36	LjRoot60_72	0	100	1.0	72	gifu	18	lj
+LjRoot60_contig_1	CDS	1738422	1739354	+	0	LjRoot60	LjRoot60_gene_8205	K01915	glnA, GLUL	glutamine synthetase [EC:6.3.1.2]	0	1739115	T	A	0	LjRoot60_72	0	122	1.0	72	gifu	18	lj
+LjRoot60_contig_1	CDS	2283746	2285134	+	0	LjRoot60	LjRoot60_gene_10810	K02416	fliM	flagellar motor switch protein FliM	0	2284474	C	CGACAG	5	LjRoot60_72	0	131	1.0	72	gifu	18	lj
+LjRoot60_contig_1	CDS	2794540	2795496	-	0	LjRoot60	LjRoot60_gene_13125	K03284	corA	magnesium transporter	0	2795286	C	T	0	LjRoot60_72	0	99	1.0	72	gifu	18	lj
+LjRoot60_contig_1	CDS	3055796	3056938	-	0	LjRoot60	LjRoot60_gene_14340	K01589	purK	5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]	0	3056787	T	C	0	LjRoot60_72	0	119	1.0	72	gifu	18	lj
+LjRoot60_contig_1	CDS	3230051	3231454	+	0	LjRoot60	LjRoot60_gene_15210	K02667	pilR, pehR	two-component system, NtrC family, response regulator PilR	0	3230440	G	GC	1	LjRoot60_72	0	96	1.0	72	gifu	18	lj
+LjRoot60_contig_1	CDS	3353015	3353710	-	0	LjRoot60	LjRoot60_gene_15760	K02663	pilN	type IV pilus assembly protein PilN	52	3353762	T	TA	1	LjRoot60_72	0	115	1.0	72	gifu	18	lj
+LjRoot60_contig_1	CDS	1283917	1286358	-	0	LjRoot60	LjRoot60_gene_5915		hypothetical protein		0	1284458	TG	T	1	LjRoot60_5	0	102	1.0	5	col0	10	lj
+LjRoot60_contig_1	CDS	1283917	1286358	-	0	LjRoot60	LjRoot60_gene_5915		hypothetical protein		0	1284472	C	CATCGGTTGCGCGATCGGCCGGCGGCCACGCTGGTAG	36	LjRoot60_5	1	100	0.9900990099009901	5	col0	10	lj
+LjRoot60_contig_1	CDS	1738422	1739354	+	0	LjRoot60	LjRoot60_gene_8205	K01915	glnA, GLUL	glutamine synthetase [EC:6.3.1.2]	0	1739115	T	A	0	LjRoot60_5	0	120	1.0	5	col0	10	lj
+LjRoot60_contig_1	CDS	2283746	2285134	+	0	LjRoot60	LjRoot60_gene_10810	K02416	fliM	flagellar motor switch protein FliM	0	2284474	C	CGACAG	5	LjRoot60_5	0	99	1.0	5	col0	10	lj
+LjRoot60_contig_1	CDS	2794540	2795496	-	0	LjRoot60	LjRoot60_gene_13125	K03284	corA	magnesium transporter	0	2795286	C	T	0	LjRoot60_5	0	109	1.0	5	col0	10	lj
+LjRoot60_contig_1	CDS	3055796	3056938	-	0	LjRoot60	LjRoot60_gene_14340	K01589	purK	5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]	0	3056787	T	C	0	LjRoot60_5	0	120	1.0	5	col0	10	lj
+LjRoot60_contig_1	CDS	3230051	3231454	+	0	LjRoot60	LjRoot60_gene_15210	K02667	pilR, pehR	two-component system, NtrC family, response regulator PilR	0	3230440	G	GC	1	LjRoot60_5	2	99	0.9801980198019802	5	col0	10	lj
+LjRoot60_contig_1	CDS	3353015	3353710	-	0	LjRoot60	LjRoot60_gene_15760	K02663	pilN	type IV pilus assembly protein PilN	52	3353762	T	TA	1	LjRoot60_5	0	119	1.0	5	col0	10	lj
+Root61_contig_1	CDS	729374	729976	-	0	Root61	Root61_gene_3270	K09017	rutR	TetR/AcrR family transcriptional regulator	0	729513	AAGGT	A	4	Root61_93	0	93	1.0	93	col0	1	at
+Root61_contig_1	CDS	1441083	1441949	-	0	Root61	Root61_gene_6755	K02099	araC	AraC family transcriptional regulator, arabinose operon regulatory protein	0	1441663	G	A	0	Root61_93	0	125	1.0	93	col0	1	at
+Root61_contig_1	CDS	1484348	1486504	+	0	Root61	Root61_gene_6965	K00525	E1.17.4.1A, nrdA, nrdE	ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	0	1485904	G	C	0	Root61_93	0	136	1.0	93	col0	1	at
+Root61_contig_1	CDS	1554691	1554993	+	0	Root61	Root61_gene_7285		hypothetical protein		0	1554757	G	A	0	Root61_93	0	110	1.0	93	col0	1	at
+Root61_contig_1	CDS	1554691	1554993	+	0	Root61	Root61_gene_7285		hypothetical protein		0	1554759	C	A	0	Root61_93	0	110	1.0	93	col0	1	at
+Root61_contig_1	CDS	1956568	1957206	-	0	Root61	Root61_gene_9325	K03801	lipB	lipoyl(octanoyl) transferase [EC:2.3.1.181]	21	1957227	G	T	0	Root61_93	0	123	1.0	93	col0	1	at
+Root61_contig_1	CDS	2742976	2743995	+	0	Root61	Root61_gene_13165	K02028	ABC.PA.A	polar amino acid transport system ATP-binding protein [EC:7.4.2.1]	125	2742851	G	T	0	Root61_93	0	124	1.0	93	col0	1	at
+Root61_contig_1	CDS	2779620	2780609	-	0	Root61	Root61_gene_13340	K02600	nusA	N utilization substance protein A	0	2780380	C	T	0	Root61_93	0	100	1.0	93	col0	1	at
+Root61_contig_1	CDS	3082810	3083487	-	0	Root61	Root61_gene_14710	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	5	3083492	A	G	0	Root61_93	0	105	1.0	93	col0	1	at
+Root61_contig_1	CDS	3082810	3083487	-	0	Root61	Root61_gene_14710	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	6	3083493	T	TG	1	Root61_93	0	106	1.0	93	col0	1	at
+Root61_contig_1	CDS	3082810	3083487	-	0	Root61	Root61_gene_14710	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	7	3083494	C	G	0	Root61_93	0	108	1.0	93	col0	1	at
+Root61_contig_1	CDS	3082810	3083487	-	0	Root61	Root61_gene_14710	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	10	3083497	G	C	0	Root61_93	0	107	1.0	93	col0	1	at
+Root61_contig_1	CDS	3082810	3083487	-	0	Root61	Root61_gene_14710	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	13	3083500	C	T	0	Root61_93	0	108	1.0	93	col0	1	at
+Root61_contig_1	CDS	3082810	3083487	-	0	Root61	Root61_gene_14710	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	18	3083505	G	GT	1	Root61_93	0	108	1.0	93	col0	1	at
+Root61_contig_1	CDS	3082810	3083487	-	0	Root61	Root61_gene_14710	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	22	3083509	T	A	0	Root61_93	0	108	1.0	93	col0	1	at
+Root61_contig_1	CDS	3082810	3083487	-	0	Root61	Root61_gene_14710	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	23	3083510	C	G	0	Root61_93	0	108	1.0	93	col0	1	at
+Root61_contig_1	CDS	3083515	3084711	-	0	Root61	Root61_gene_14715	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	0	3083518	C	G	0	Root61_93	0	108	1.0	93	col0	1	at
+Root61_contig_1	CDS	3083515	3084711	-	0	Root61	Root61_gene_14715	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	0	3083521	A	G	0	Root61_93	0	108	1.0	93	col0	1	at
+Root61_contig_1	CDS	3083515	3084711	-	0	Root61	Root61_gene_14715	K03380	E1.14.13.7	phenol 2-monooxygenase [EC:1.14.13.7]	0	3083526	T	G	0	Root61_93	0	108	1.0	93	col0	1	at
+Root61_contig_1	CDS	3552898	3553722	+	0	Root61	Root61_gene_16735	K01992	ABC-2.P	ABC-2 type transport system permease protein	1874	3551024	A	G	0	Root61_93	0	127	1.0	93	col0	1	at
+Root61_contig_1	CDS	3758589	3760796	-	0	Root61	Root61_gene_17685	K03695	clpB	ATP-dependent Clp protease ATP-binding subunit ClpB	0	3760068	G	A	0	Root61_93	0	127	1.0	93	col0	1	at
+Root61_contig_1	CDS	3890678	3892429	+	0	Root61	Root61_gene_18250	K06148	ABCC-BAC	ATP-binding cassette, subfamily C, bacterial	0	3891187	T	TC	1	Root61_93	7	79	0.9186046511627907	93	col0	1	at
+Root935_contig_1	CDS	191182	194433	-	0	Root935	Root935_gene_890	K21573	susC	TonB-dependent starch-binding outer membrane protein SusC	375	194808	T	TA	1	Root935_18	5	94	0.9494949494949495	18	gifu	12	at
+Root935_contig_1	CDS	1296518	1298293	+	0	Root935	Root935_gene_5835		hypothetical protein		0	1297457	GA	G	1	Root935_18	3	114	0.9743589743589743	18	gifu	12	at
+Root935_contig_1	CDS	1808159	1810765	+	0	Root935	Root935_gene_8035	K03555	mutS	DNA mismatch repair protein MutS	0	1810305	C	T	0	Root935_18	0	102	1.0	18	gifu	12	at
+Root935_contig_1	CDS	1818682	1819545	+	0	Root935	Root935_gene_8100	K18954	pobR	AraC family transcriptional regulator, transcriptional activator of pobA	0	1818721	T	C	0	Root935_18	0	110	1.0	18	gifu	12	at
+Root935_contig_1	tRNA	2120011	2120085	+		Root935	Root935_gene_9455		tRNA-Ala(tgc)		116	2119895	T	TA	1	Root935_18	3	103	0.9716981132075472	18	gifu	12	at
+Root935_contig_1	CDS	2161340	2162434	-	0	Root935	Root935_gene_9600	K01400	nprE	bacillolysin [EC:3.4.24.28]	0	2161811	T	C	0	Root935_18	0	109	1.0	18	gifu	12	at
+Root935_contig_1	CDS	2212326	2213789	+	0	Root935	Root935_gene_9780	K09704	K09704	uncharacterized protein	0	2212383	G	A	0	Root935_18	0	121	1.0	18	gifu	12	at
+Root935_contig_1	tRNA	2214906	2214993	-		Root935	Root935_gene_9790		tRNA-Ser(tga)		498	2215491	G	GT	1	Root935_18	26	54	0.675	18	gifu	12	at
+Root935_contig_1	CDS	2466478	2467488	-	0	Root935	Root935_gene_10925	K19802	ycjG, ykfB	L-Ala-D/L-Glu epimerase [EC:5.1.1.20]	0	2467231	A	G	0	Root935_18	0	109	1.0	18	gifu	12	at
+Root935_contig_1	CDS	3194241	3196247	+	0	Root935	Root935_gene_14120	K01534	zntA	Cd2+/Zn2+-exporting ATPase [EC:3.6.3.3 3.6.3.5]	0	3195796	C	T	0	Root935_18	0	111	1.0	18	gifu	12	at
+Root935_contig_1	CDS	3212729	3213163	-	0	Root935	Root935_gene_14180	K06966	ppnN	pyrimidine/purine-5-nucleotide nucleosidase [EC:3.2.2.10 3.2.2.-]	0	3213067	A	G	0	Root935_18	0	112	1.0	18	gifu	12	at
+Root935_contig_1	CDS	3409761	3412769	+	0	Root935	Root935_gene_15030	K21573	susC	TonB-dependent starch-binding outer membrane protein SusC	559	3409202	T	C	0	Root935_18	0	108	1.0	18	gifu	12	at
+Root935_contig_1	CDS	3504189	3505250	-	0	Root935	Root935_gene_15420	K03585	acrA, mexA, adeI, smeD, mtrC, cmeA	membrane fusion protein, multidrug efflux system	0	3504315	A	G	0	Root935_18	0	102	1.0	18	gifu	12	at
+Root935_contig_1	CDS	3572560	3573696	+	0	Root935	Root935_gene_15720	K01089	hisB	imidazoleglycerol-phosphate dehydratase / histidinol-phosphatase [EC:4.2.1.19 3.1.3.15]	0	3572989	T	G	0	Root935_18	0	106	1.0	18	gifu	12	at
+Root935_contig_1	CDS	3572560	3573696	+	0	Root935	Root935_gene_15720	K01089	hisB	imidazoleglycerol-phosphate dehydratase / histidinol-phosphatase [EC:4.2.1.19 3.1.3.15]	0	3572990	T	C	0	Root935_18	0	106	1.0	18	gifu	12	at
+Root935_contig_1	CDS	3647675	3650260	-	0	Root935	Root935_gene_16120	K01595	ppc	phosphoenolpyruvate carboxylase [EC:4.1.1.31]	0	3647824	G	A	0	Root935_18	0	101	1.0	18	gifu	12	at
+Root935_contig_1	CDS	3713305	3714537	-	0	Root935	Root935_gene_16445	K20276	bapA	large repetitive protein	0	3713994	G	A	0	Root935_18	0	96	1.0	18	gifu	12	at
+Root935_contig_1	rRNA	3752424	3753934	-		Root935	Root935_gene_16625		16S ribosomal RNA		0	3752689	C	T	0	Root935_18	0	102	1.0	18	gifu	12	at
+Root935_contig_1	CDS	4638367	4642377	+	0	Root935	Root935_gene_19910	K13611	pksJ	polyketide synthase PksJ	0	4641132	T	C	0	Root935_18	0	96	1.0	18	gifu	12	at
+Root935_contig_1	CDS	4765393	4766241	+	0	Root935	Root935_gene_20520	K07054	K07054	uncharacterized protein	0	4765885	G	C	0	Root935_18	0	109	1.0	18	gifu	12	at
+Root935_contig_1	CDS	4781156	4782934	+	0	Root935	Root935_gene_20575	K01897	ACSL, fadD	long-chain acyl-CoA synthetase [EC:6.2.1.3]	0	4782185	G	A	0	Root935_18	0	107	1.0	18	gifu	12	at
+Root935_contig_1	CDS	4834803	4835999	+	0	Root935	Root935_gene_20830	K01286	E3.4.16.4	D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]	0	4835112	A	G	0	Root935_18	0	105	1.0	18	gifu	12	at
+Root935_contig_1	CDS	5038196	5039260	+	0	Root935	Root935_gene_21630		hypothetical protein		0	5038213	T	C	0	Root935_18	0	118	1.0	18	gifu	12	at
+LjRoot59_contig_1	CDS	1495101	1497152	-	0	LjRoot59	LjRoot59_gene_6600	K21024	bifA	c-di-GMP phosphodiesterase [EC:3.1.4.52]	0	1495960	G	A	0	LjRoot59_140	0	123	1.0	140	col0	7.2	lj
+LjRoot59_contig_1	CDS	2199276	2200544	+	0	LjRoot59	LjRoot59_gene_9665	K03545	tig	trigger factor	242	2199034	G	A	0	LjRoot59_140	0	141	1.0	140	col0	7.2	lj
+LjRoot82_contig_1	CDS	1292209	1292403	-	0	LjRoot82	LjRoot82_gene_6005	K03704	cspA	cold shock protein (beta-ribbon, CspA family)	0	1292393	C	T	0	LjRoot82_71	0	104	1.0	71	gifu	18	lj
+LjRoot82_contig_1	CDS	1771078	1784934	+	0	LjRoot82	LjRoot82_gene_8060	K20276	bapA	large repetitive protein	0	1779573	T	C	0	LjRoot82_71	3	81	0.9642857142857143	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4077801	4079108	+	0	LjRoot82	LjRoot82_gene_17725	K03733	xerC	integrase/recombinase XerC	0	4078661	A	C	0	LjRoot82_71	72	75	0.5102040816326531	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4077801	4079108	+	0	LjRoot82	LjRoot82_gene_17725	K03733	xerC	integrase/recombinase XerC	0	4078883	C	T	0	LjRoot82_71	70	76	0.5205479452054794	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4077801	4079108	+	0	LjRoot82	LjRoot82_gene_17725	K03733	xerC	integrase/recombinase XerC	0	4078904	T	G	0	LjRoot82_71	70	76	0.5205479452054794	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4077801	4079108	+	0	LjRoot82	LjRoot82_gene_17725	K03733	xerC	integrase/recombinase XerC	0	4078988	T	C	0	LjRoot82_71	70	76	0.5205479452054794	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4077801	4079108	+	0	LjRoot82	LjRoot82_gene_17725	K03733	xerC	integrase/recombinase XerC	0	4078994	C	G	0	LjRoot82_71	70	76	0.5205479452054794	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4077801	4079108	+	0	LjRoot82	LjRoot82_gene_17725	K03733	xerC	integrase/recombinase XerC	0	4079018	A	G	0	LjRoot82_71	69	76	0.5241379310344828	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4077801	4079108	+	0	LjRoot82	LjRoot82_gene_17725	K03733	xerC	integrase/recombinase XerC	0	4079027	A	G	0	LjRoot82_71	69	76	0.5241379310344828	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4079148	4079471	-	0	LjRoot82	LjRoot82_gene_17730		hypothetical protein		0	4079226	A	G	0	LjRoot82_71	68	73	0.5177304964539007	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4079766	4080068	-	0	LjRoot82	LjRoot82_gene_17740		hypothetical protein		0	4079780	C	T	0	LjRoot82_71	67	81	0.5472972972972973	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4079766	4080068	-	0	LjRoot82	LjRoot82_gene_17740		hypothetical protein		0	4079788	A	G	0	LjRoot82_71	67	81	0.5472972972972973	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4079766	4080068	-	0	LjRoot82	LjRoot82_gene_17740		hypothetical protein		0	4079796	A	G	0	LjRoot82_71	67	82	0.5503355704697986	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4079766	4080068	-	0	LjRoot82	LjRoot82_gene_17740		hypothetical protein		0	4079808	T	G	0	LjRoot82_71	66	82	0.5540540540540541	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4079766	4080068	-	0	LjRoot82	LjRoot82_gene_17740		hypothetical protein		0	4079862	T	C	0	LjRoot82_71	66	81	0.5510204081632653	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4079766	4080068	-	0	LjRoot82	LjRoot82_gene_17740		hypothetical protein		0	4079865	C	T	0	LjRoot82_71	67	81	0.5472972972972973	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4079766	4080068	-	0	LjRoot82	LjRoot82_gene_17740		hypothetical protein		0	4079928	A	G	0	LjRoot82_71	66	84	0.56	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4079766	4080068	-	0	LjRoot82	LjRoot82_gene_17740		hypothetical protein		0	4079931	G	T	0	LjRoot82_71	66	84	0.56	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4079766	4080068	-	0	LjRoot82	LjRoot82_gene_17740		hypothetical protein		0	4080060	T	G	0	LjRoot82_71	68	80	0.5405405405405406	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4079766	4080068	-	0	LjRoot82	LjRoot82_gene_17740		hypothetical protein		0	4080061	T	G	0	LjRoot82_71	68	80	0.5405405405405406	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4080073	4081224	-	0	LjRoot82	LjRoot82_gene_17745		hypothetical protein		0	4080127	A	C	0	LjRoot82_71	69	81	0.54	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4080073	4081224	-	0	LjRoot82	LjRoot82_gene_17745		hypothetical protein		0	4080193	T	C	0	LjRoot82_71	70	81	0.5364238410596026	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4080073	4081224	-	0	LjRoot82	LjRoot82_gene_17745		hypothetical protein		0	4080343	C	T	0	LjRoot82_71	71	82	0.5359477124183006	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4080073	4081224	-	0	LjRoot82	LjRoot82_gene_17745		hypothetical protein		0	4080373	A	C	0	LjRoot82_71	71	82	0.5359477124183006	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4080073	4081224	-	0	LjRoot82	LjRoot82_gene_17745		hypothetical protein		0	4080470	G	A	0	LjRoot82_71	72	83	0.535483870967742	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4080073	4081224	-	0	LjRoot82	LjRoot82_gene_17745		hypothetical protein		0	4080484	G	A	0	LjRoot82_71	73	82	0.5290322580645161	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4080073	4081224	-	0	LjRoot82	LjRoot82_gene_17745		hypothetical protein		0	4080490	C	A	0	LjRoot82_71	73	82	0.5290322580645161	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4080073	4081224	-	0	LjRoot82	LjRoot82_gene_17745		hypothetical protein		0	4080571	T	C	0	LjRoot82_71	71	83	0.538961038961039	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4080073	4081224	-	0	LjRoot82	LjRoot82_gene_17745		hypothetical protein		0	4080673	G	A	0	LjRoot82_71	69	78	0.5306122448979592	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4080073	4081224	-	0	LjRoot82	LjRoot82_gene_17745		hypothetical protein		0	4080720	A	T	0	LjRoot82_71	69	83	0.5460526315789473	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4080073	4081224	-	0	LjRoot82	LjRoot82_gene_17745		hypothetical protein		0	4080736	C	T	0	LjRoot82_71	70	85	0.5483870967741935	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4080073	4081224	-	0	LjRoot82	LjRoot82_gene_17745		hypothetical protein		0	4080766	A	G	0	LjRoot82_71	71	85	0.5448717948717948	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4080073	4081224	-	0	LjRoot82	LjRoot82_gene_17745		hypothetical protein		0	4080844	T	C	0	LjRoot82_71	69	85	0.551948051948052	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4080073	4081224	-	0	LjRoot82	LjRoot82_gene_17745		hypothetical protein		0	4080886	G	A	0	LjRoot82_71	68	86	0.5584415584415584	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4080073	4081224	-	0	LjRoot82	LjRoot82_gene_17745		hypothetical protein		0	4080901	A	G	0	LjRoot82_71	67	85	0.5592105263157895	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4080073	4081224	-	0	LjRoot82	LjRoot82_gene_17745		hypothetical protein		0	4081210	A	C	0	LjRoot82_71	70	82	0.5394736842105263	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081257	C	T	0	LjRoot82_71	69	83	0.5460526315789473	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081293	T	C	0	LjRoot82_71	69	83	0.5460526315789473	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081301	A	T	0	LjRoot82_71	69	83	0.5460526315789473	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081315	A	G	0	LjRoot82_71	69	83	0.5460526315789473	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081367	C	A	0	LjRoot82_71	69	82	0.543046357615894	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081384	C	G	0	LjRoot82_71	70	84	0.5454545454545454	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081388	A	G	0	LjRoot82_71	70	83	0.5424836601307189	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081394	A	G	0	LjRoot82_71	70	84	0.5454545454545454	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081431	G	T	0	LjRoot82_71	71	84	0.5419354838709678	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081481	T	C	0	LjRoot82_71	71	84	0.5419354838709678	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081582	T	C	0	LjRoot82_71	72	85	0.5414012738853503	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081595	A	G	0	LjRoot82_71	72	85	0.5414012738853503	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081610	T	C	0	LjRoot82_71	71	84	0.5419354838709678	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081639	T	G	0	LjRoot82_71	71	85	0.5448717948717948	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081680	T	C	0	LjRoot82_71	69	84	0.5490196078431373	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081703	G	T	0	LjRoot82_71	70	84	0.5454545454545454	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081736	A	T	0	LjRoot82_71	70	86	0.5512820512820513	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081741	C	A	0	LjRoot82_71	71	86	0.5477707006369427	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081826	A	T	0	LjRoot82_71	73	87	0.54375	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081907	G	T	0	LjRoot82_71	73	85	0.5379746835443038	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081925	T	C	0	LjRoot82_71	73	84	0.535031847133758	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081931	A	G	0	LjRoot82_71	74	84	0.5316455696202531	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081934	T	A	0	LjRoot82_71	73	84	0.535031847133758	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081955	A	G	0	LjRoot82_71	71	83	0.538961038961039	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081960	T	C	0	LjRoot82_71	74	84	0.5316455696202531	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4081961	A	G	0	LjRoot82_71	74	84	0.5316455696202531	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4082018	A	G	0	LjRoot82_71	74	82	0.5256410256410257	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4082019	G	A	0	LjRoot82_71	74	82	0.5256410256410257	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4082021	A	T	0	LjRoot82_71	74	83	0.5286624203821656	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4082028	T	C	0	LjRoot82_71	74	82	0.5256410256410257	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4082049	A	G	0	LjRoot82_71	74	83	0.5286624203821656	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4081241	4082104	-	0	LjRoot82	LjRoot82_gene_17750		hypothetical protein		0	4082069	C	A	0	LjRoot82_71	74	83	0.5286624203821656	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082192	C	T	0	LjRoot82_71	74	81	0.5225806451612903	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082219	G	A	0	LjRoot82_71	74	80	0.5194805194805194	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082222	T	A	0	LjRoot82_71	75	80	0.5161290322580645	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082282	T	G	0	LjRoot82_71	73	80	0.5228758169934641	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082303	C	A	0	LjRoot82_71	73	79	0.5197368421052632	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082324	T	C	0	LjRoot82_71	73	78	0.5165562913907285	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082348	A	G	0	LjRoot82_71	73	78	0.5165562913907285	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082354	G	T	0	LjRoot82_71	74	78	0.5131578947368421	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082378	T	A	0	LjRoot82_71	73	78	0.5165562913907285	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082465	G	A	0	LjRoot82_71	69	77	0.5273972602739726	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082489	A	C	0	LjRoot82_71	69	77	0.5273972602739726	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082534	T	C	0	LjRoot82_71	67	77	0.5347222222222222	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082611	C	A	0	LjRoot82_71	67	80	0.54421768707483	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082612	T	G	0	LjRoot82_71	67	80	0.54421768707483	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082614	G	C	0	LjRoot82_71	67	79	0.541095890410959	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082649	G	C	0	LjRoot82_71	68	80	0.5405405405405406	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082660	A	G	0	LjRoot82_71	68	79	0.5374149659863946	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082708	C	T	0	LjRoot82_71	69	79	0.5337837837837838	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082732	A	G	0	LjRoot82_71	71	79	0.5266666666666666	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082735	T	G	0	LjRoot82_71	71	79	0.5266666666666666	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082744	T	C	0	LjRoot82_71	71	79	0.5266666666666666	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082747	T	C	0	LjRoot82_71	71	79	0.5266666666666666	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082813	T	C	0	LjRoot82_71	74	79	0.5163398692810458	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4082888	C	T	0	LjRoot82_71	74	78	0.5131578947368421	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4083078	C	T	0	LjRoot82_71	75	78	0.5098039215686274	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4083096	C	G	0	LjRoot82_71	76	79	0.5096774193548387	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4083107	A	C	0	LjRoot82_71	76	79	0.5096774193548387	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4083110	G	C	0	LjRoot82_71	76	79	0.5096774193548387	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4083123	A	C	0	LjRoot82_71	76	81	0.5159235668789809	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4083152	T	G	0	LjRoot82_71	76	77	0.5032679738562091	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4083185	G	A	0	LjRoot82_71	75	77	0.506578947368421	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4083230	A	C	0	LjRoot82_71	71	77	0.5202702702702703	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4083233	T	C	0	LjRoot82_71	71	78	0.5234899328859061	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4083242	A	G	0	LjRoot82_71	72	78	0.52	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4083263	A	G	0	LjRoot82_71	73	78	0.5165562913907285	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4083323	G	C	0	LjRoot82_71	72	79	0.5231788079470199	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4082117	4083406	-	0	LjRoot82	LjRoot82_gene_17755		hypothetical protein		0	4083325	G	A	0	LjRoot82_71	72	79	0.5231788079470199	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083411	4083662	-	0	LjRoot82	LjRoot82_gene_17760		hypothetical protein		0	4083449	T	C	0	LjRoot82_71	71	77	0.5202702702702703	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083411	4083662	-	0	LjRoot82	LjRoot82_gene_17760		hypothetical protein		0	4083451	G	A	0	LjRoot82_71	71	77	0.5202702702702703	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083411	4083662	-	0	LjRoot82	LjRoot82_gene_17760		hypothetical protein		0	4083452	A	G	0	LjRoot82_71	72	77	0.5167785234899329	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083411	4083662	-	0	LjRoot82	LjRoot82_gene_17760		hypothetical protein		0	4083464	G	C	0	LjRoot82_71	72	78	0.52	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083411	4083662	-	0	LjRoot82	LjRoot82_gene_17760		hypothetical protein		0	4083557	G	A	0	LjRoot82_71	68	77	0.5310344827586206	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083411	4083662	-	0	LjRoot82	LjRoot82_gene_17760		hypothetical protein		0	4083568	A	G	0	LjRoot82_71	67	77	0.5347222222222222	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083411	4083662	-	0	LjRoot82	LjRoot82_gene_17760		hypothetical protein		0	4083570	A	T	0	LjRoot82_71	67	77	0.5347222222222222	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083669	4084289	-	0	LjRoot82	LjRoot82_gene_17765		hypothetical protein		0	4083692	T	G	0	LjRoot82_71	64	74	0.5362318840579711	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083669	4084289	-	0	LjRoot82	LjRoot82_gene_17765		hypothetical protein		0	4083807	T	G	0	LjRoot82_71	61	72	0.5413533834586466	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083669	4084289	-	0	LjRoot82	LjRoot82_gene_17765		hypothetical protein		0	4083869	C	A	0	LjRoot82_71	63	73	0.5367647058823529	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083669	4084289	-	0	LjRoot82	LjRoot82_gene_17765		hypothetical protein		0	4083873	G	A	0	LjRoot82_71	63	73	0.5367647058823529	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083669	4084289	-	0	LjRoot82	LjRoot82_gene_17765		hypothetical protein		0	4083885	A	G	0	LjRoot82_71	63	74	0.5401459854014599	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083669	4084289	-	0	LjRoot82	LjRoot82_gene_17765		hypothetical protein		0	4083900	A	G	0	LjRoot82_71	63	73	0.5367647058823529	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083669	4084289	-	0	LjRoot82	LjRoot82_gene_17765		hypothetical protein		0	4083960	C	A	0	LjRoot82_71	62	74	0.5441176470588235	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083669	4084289	-	0	LjRoot82	LjRoot82_gene_17765		hypothetical protein		0	4083981	A	C	0	LjRoot82_71	62	75	0.5474452554744526	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083669	4084289	-	0	LjRoot82	LjRoot82_gene_17765		hypothetical protein		0	4084023	G	A	0	LjRoot82_71	62	76	0.5507246376811594	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083669	4084289	-	0	LjRoot82	LjRoot82_gene_17765		hypothetical protein		0	4084089	A	G	0	LjRoot82_71	62	78	0.5571428571428572	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083669	4084289	-	0	LjRoot82	LjRoot82_gene_17765		hypothetical protein		0	4084128	A	G	0	LjRoot82_71	62	78	0.5571428571428572	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4083669	4084289	-	0	LjRoot82	LjRoot82_gene_17765		hypothetical protein		0	4084245	C	T	0	LjRoot82_71	61	76	0.5547445255474452	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084309	T	C	0	LjRoot82_71	60	75	0.5555555555555556	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084398	A	G	0	LjRoot82_71	62	78	0.5571428571428572	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084407	G	C	0	LjRoot82_71	62	78	0.5571428571428572	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084425	C	T	0	LjRoot82_71	61	78	0.5611510791366906	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084436	T	C	0	LjRoot82_71	61	77	0.5579710144927537	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084455	A	T	0	LjRoot82_71	61	79	0.5642857142857143	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084458	G	A	0	LjRoot82_71	61	79	0.5642857142857143	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084464	C	G	0	LjRoot82_71	61	79	0.5642857142857143	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084472	A	T	0	LjRoot82_71	61	79	0.5642857142857143	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084476	G	A	0	LjRoot82_71	61	79	0.5642857142857143	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084483	T	C	0	LjRoot82_71	61	79	0.5642857142857143	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084563	G	C	0	LjRoot82_71	60	78	0.5652173913043478	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084572	T	G	0	LjRoot82_71	60	78	0.5652173913043478	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084581	G	A	0	LjRoot82_71	60	79	0.5683453237410072	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084635	A	T	0	LjRoot82_71	59	81	0.5785714285714286	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084647	T	C	0	LjRoot82_71	59	81	0.5785714285714286	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084677	T	C	0	LjRoot82_71	58	81	0.5827338129496403	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084692	G	A	0	LjRoot82_71	60	81	0.574468085106383	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084728	G	C	0	LjRoot82_71	60	81	0.574468085106383	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084758	G	C	0	LjRoot82_71	60	81	0.574468085106383	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084788	T	C	0	LjRoot82_71	61	81	0.5704225352112676	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084791	T	A	0	LjRoot82_71	61	81	0.5704225352112676	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084794	G	T	0	LjRoot82_71	61	81	0.5704225352112676	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084836	T	C	0	LjRoot82_71	61	81	0.5704225352112676	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084869	C	G	0	LjRoot82_71	61	83	0.5763888888888888	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084914	G	A	0	LjRoot82_71	61	84	0.5793103448275863	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084959	T	C	0	LjRoot82_71	59	85	0.5902777777777778	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4084988	T	C	0	LjRoot82_71	59	85	0.5902777777777778	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085004	A	G	0	LjRoot82_71	57	85	0.5985915492957746	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085022	C	T	0	LjRoot82_71	57	83	0.5928571428571429	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085049	T	C	0	LjRoot82_71	57	81	0.5869565217391305	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085082	G	A	0	LjRoot82_71	56	84	0.6	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085154	T	A	0	LjRoot82_71	55	85	0.6071428571428571	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085181	A	T	0	LjRoot82_71	52	83	0.6148148148148148	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085196	G	T	0	LjRoot82_71	54	84	0.6086956521739131	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085205	A	C	0	LjRoot82_71	54	84	0.6086956521739131	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085235	T	A	0	LjRoot82_71	57	81	0.5869565217391305	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085265	G	A	0	LjRoot82_71	57	82	0.5899280575539568	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085268	A	G	0	LjRoot82_71	57	82	0.5899280575539568	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085271	T	C	0	LjRoot82_71	57	82	0.5899280575539568	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085274	T	G	0	LjRoot82_71	57	82	0.5899280575539568	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085276	C	T	0	LjRoot82_71	57	82	0.5899280575539568	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085310	A	G	0	LjRoot82_71	59	83	0.5845070422535211	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085358	G	A	0	LjRoot82_71	59	84	0.5874125874125874	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085424	A	G	0	LjRoot82_71	59	79	0.572463768115942	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085430	A	T	0	LjRoot82_71	59	80	0.5755395683453237	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085443	A	G	0	LjRoot82_71	59	80	0.5755395683453237	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085454	A	G	0	LjRoot82_71	60	77	0.5620437956204379	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085458	A	T	0	LjRoot82_71	59	78	0.5693430656934306	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085504	A	G	0	LjRoot82_71	59	78	0.5693430656934306	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4084302	4085513	-	0	LjRoot82	LjRoot82_gene_17770		hypothetical protein		0	4085505	A	G	0	LjRoot82_71	59	78	0.5693430656934306	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4085517	4086152	-	0	LjRoot82	LjRoot82_gene_17775		hypothetical protein		0	4085532	T	C	0	LjRoot82_71	59	78	0.5693430656934306	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4085517	4086152	-	0	LjRoot82	LjRoot82_gene_17775		hypothetical protein		0	4085559	T	A	0	LjRoot82_71	58	78	0.5735294117647058	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4085517	4086152	-	0	LjRoot82	LjRoot82_gene_17775		hypothetical protein		0	4085744	G	C	0	LjRoot82_71	60	72	0.5454545454545454	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4085517	4086152	-	0	LjRoot82	LjRoot82_gene_17775		hypothetical protein		0	4085747	T	C	0	LjRoot82_71	60	72	0.5454545454545454	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4085517	4086152	-	0	LjRoot82	LjRoot82_gene_17775		hypothetical protein		0	4085910	C	T	0	LjRoot82_71	63	73	0.5367647058823529	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4085517	4086152	-	0	LjRoot82	LjRoot82_gene_17775		hypothetical protein		0	4085940	C	A	0	LjRoot82_71	62	73	0.5407407407407407	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4085517	4086152	-	0	LjRoot82	LjRoot82_gene_17775		hypothetical protein		0	4086042	T	A	0	LjRoot82_71	62	74	0.5441176470588235	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4085517	4086152	-	0	LjRoot82	LjRoot82_gene_17775		hypothetical protein		0	4086051	G	A	0	LjRoot82_71	62	73	0.5407407407407407	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086164	4086778	-	0	LjRoot82	LjRoot82_gene_17780		hypothetical protein		0	4086290	C	A	0	LjRoot82_71	60	74	0.5522388059701493	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086164	4086778	-	0	LjRoot82	LjRoot82_gene_17780		hypothetical protein		0	4086332	C	T	0	LjRoot82_71	59	74	0.556390977443609	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086164	4086778	-	0	LjRoot82	LjRoot82_gene_17780		hypothetical protein		0	4086359	C	T	0	LjRoot82_71	59	75	0.5597014925373134	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086164	4086778	-	0	LjRoot82	LjRoot82_gene_17780		hypothetical protein		0	4086476	A	G	0	LjRoot82_71	58	72	0.5538461538461539	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086164	4086778	-	0	LjRoot82	LjRoot82_gene_17780		hypothetical protein		0	4086506	A	G	0	LjRoot82_71	57	72	0.5581395348837209	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086164	4086778	-	0	LjRoot82	LjRoot82_gene_17780		hypothetical protein		0	4086590	C	T	0	LjRoot82_71	57	69	0.5476190476190477	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086164	4086778	-	0	LjRoot82	LjRoot82_gene_17780		hypothetical protein		0	4086593	T	A	0	LjRoot82_71	57	70	0.5511811023622047	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086164	4086778	-	0	LjRoot82	LjRoot82_gene_17780		hypothetical protein		0	4086656	G	A	0	LjRoot82_71	57	71	0.5546875	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4086805	A	G	0	LjRoot82_71	56	69	0.552	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4086821	T	C	0	LjRoot82_71	56	68	0.5483870967741935	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4086887	G	T	0	LjRoot82_71	58	68	0.5396825396825397	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4086895	G	A	0	LjRoot82_71	58	70	0.546875	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4086905	C	T	0	LjRoot82_71	58	71	0.5503875968992248	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4086916	A	T	0	LjRoot82_71	58	71	0.5503875968992248	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4086922	A	T	0	LjRoot82_71	58	71	0.5503875968992248	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4086961	C	T	0	LjRoot82_71	58	72	0.5538461538461539	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4087021	T	G	0	LjRoot82_71	54	72	0.5714285714285714	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4087075	A	G	0	LjRoot82_71	55	74	0.5736434108527132	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4087087	G	A	0	LjRoot82_71	54	71	0.568	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4087113	C	G	0	LjRoot82_71	53	75	0.5859375	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4087136	T	C	0	LjRoot82_71	53	74	0.5826771653543307	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4087144	C	T	0	LjRoot82_71	53	74	0.5826771653543307	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4087165	G	C	0	LjRoot82_71	52	74	0.5873015873015873	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4087168	G	A	0	LjRoot82_71	53	74	0.5826771653543307	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4087222	T	C	0	LjRoot82_71	54	74	0.578125	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4087240	C	T	0	LjRoot82_71	54	74	0.578125	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4086793	4087476	-	0	LjRoot82	LjRoot82_gene_17785		hypothetical protein		0	4087252	G	A	0	LjRoot82_71	54	74	0.578125	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4087799	4088569	+	0	LjRoot82	LjRoot82_gene_17790		hypothetical protein		293	4087506	A	T	0	LjRoot82_71	53	70	0.5691056910569106	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4087799	4088569	+	0	LjRoot82	LjRoot82_gene_17790		hypothetical protein		290	4087509	C	T	0	LjRoot82_71	51	71	0.5819672131147541	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4087799	4088569	+	0	LjRoot82	LjRoot82_gene_17790		hypothetical protein		242	4087557	T	G	0	LjRoot82_71	53	70	0.5691056910569106	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4355312	4357498	-	0	LjRoot82	LjRoot82_gene_18720	K11527	K11527	two-component system, sensor histidine kinase and response regulator [EC:2.7.13.3]	0	4355871	T	C	0	LjRoot82_71	71	40	0.36036036036036034	71	gifu	18	lj
+LjRoot82_contig_1	CDS	4902042	4903751	+	0	LjRoot82	LjRoot82_gene_20970	K11354	cph1	two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]	0	4902044	G	A	0	LjRoot82_71	0	100	1.0	71	gifu	18	lj
