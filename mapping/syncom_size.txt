@@ -1,0 +1,4 @@
+syncom	sum_length_genome	sum_len_cds
+lj	91481991	81878582
+at	107554476	95856007
+mixed	191272184	171020326
